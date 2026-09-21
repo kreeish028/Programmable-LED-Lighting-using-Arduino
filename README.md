@@ -65,4 +65,5 @@ The project can be improved by adding sensors, switches, sound control, Bluetoot
 ##  **Conclusion**
 
 The Programmable LED Lighting Using Arduino project demonstrates how Arduino can be used to control LEDs and create different lighting patterns. It provides a simple introduction to embedded systems and microcontroller-based projects.
+<img width="1600" height="900" alt="result" src="https://github.com/user-attachments/assets/83c0ffc2-4ecc-44f9-b834-0db52e0b82ca" />
 
